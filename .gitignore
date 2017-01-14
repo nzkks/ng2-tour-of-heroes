@@ -4,3 +4,4 @@ app/**/*.js
 npm-debug.*
 jspm_packages
 _temp
+.vscode
